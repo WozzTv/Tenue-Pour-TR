@@ -1,0 +1,35 @@
+Hi, this is FoxLabs. 
+
+Thank you for downloading ! 
+
+----------------------------------
+REQUIREMENTS : 
+
+EUP Menu by PieRGud
+https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/
+
+EUP VEST＆EARPIECE by Hanako
+https://www.lcpdfr.com/downloads/gta5mods/character/25692-eup-vest%EF%BC%86earpiece-beta/
+-----------------------
+Launch OpenIV
+
+*Drop and replace "task_diff_014_a_uni.ytd" in : Grand Theft Auto V\mods\update\x64\dlcpacks\eup\dlc.rpf\x64\eup_componentpeds.rpf\mp_m_freemode_01_mp_m_vinewood
+
+*Drop and replace "task_diff_000_a_uni.ytd" in : \Grand Theft Auto V\mods\update\x64\dlcpacks\eup\dlc.rpf\x64\eup_componentpeds.rpf\mp_m_freemode_01_mp_m_heist3
+-----------------------
+
+IF YOU USE MY MOD IN ONE OF YOUR VIDEOS/LIVE, LINK MY LSPDFR PAGE IN THE DESCRIPTION !
+------------------------------------------------------------------------------------------
+
+Please feel free to post a comment on LSPDFR and make reviews, share videos... =) 
+
+SUPPORT ME ON PAYPAL : foxlabsgaming@gmail.com
+
+Did you check my last mods ?
+https://www.lcpdfr.com/downloads/gta5mods/audio/26729-real-dispatcher/
+https://www.lcpdfr.com/downloads/gta5mods/character/26754-bc-swat-eup-presets/
+
+My LSPDFR page : https://www.lcpdfr.com/profile/428584-foxlabs/
+My GTA5mods.com page : https://fr.gta5-mods.com/users/Regoff
+My YouTube channel : https://www.youtube.com/channel/UChR1WGuMckOjqWyloyXYfFw/featured
+My Twitch channel : https://www.twitch.tv/foxlabsgaming
